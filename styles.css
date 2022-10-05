@@ -1,5 +1,5 @@
 body{
-    background-color: bisque;
+    background-color: #6667AB;
     font-family: Helvetica;
 }
 img {
@@ -9,15 +9,15 @@ img {
   width: 30%;
 }
 h1{
-    color: darkmagenta;
+    color: white;
     text-align: center;
 }
 h2{
-    color:olive;
+    color: darkmagenta;
 }
 footer{
-    color:darkslategray
+    color: darkgrey;
 }
 .bonApp{
-    color:darkslateblue
+    color: darkslateblue;
 }
