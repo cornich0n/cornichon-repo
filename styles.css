@@ -1,5 +1,5 @@
 body{
-    background-color: #6667AB;
+    background-color: #669900;
     font-family: 'Source Serif Pro';
 }
 img {
@@ -8,12 +8,18 @@ img {
   margin-right: auto;
   width: 30%;
 }
+#recette{
+    margin-left: 1vw;
+}
 h1{
     color: white;
+    font-size: 3vw;
     text-align: center;
 }
 h2{
+    font-size: 2vw;
     color: darkmagenta;
+    text-align: center;
 }
 footer{
     color: darkgrey;
@@ -21,4 +27,7 @@ footer{
 }
 .bonApp{
     color: darkslateblue;
+}
+ul,ol{
+    font-size: 1.2vw;
 }
