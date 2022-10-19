@@ -10,6 +10,7 @@ img {
 }
 #recette{
     margin-left: 1vw;
+    margin-right: 1vw;
 }
 h1{
     color: white;
@@ -30,4 +31,10 @@ footer{
 }
 ul,ol{
     font-size: 1.2vw;
+}
+li{
+    margin-top: 1.5vw;
+}
+#credits{
+    font-size: 1.1vw;
 }
